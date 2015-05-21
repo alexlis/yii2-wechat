@@ -1,0 +1,21 @@
+{
+    "name": "lubaogui/yii2-wechat",
+    "description": "微信扩展介绍",
+    "type": "library",
+    "keywords": ["yii2","extension"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Baogui Lu",
+            "email": "lbaogui@pku.edu.cn"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "lubaogui\\wechat\\": ""
+        }
+    }
+}
