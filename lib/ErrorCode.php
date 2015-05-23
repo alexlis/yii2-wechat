@@ -11,7 +11,7 @@
  *      else
  *          echo "未找到对应的内容";
  */
-namespace lubaogui\wechat\lib\ErrCode;
+namespace lubaogui\wechat\lib;
 
 
 class ErrCode

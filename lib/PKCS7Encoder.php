@@ -1,4 +1,5 @@
 <?php
+namespace lubaogui\wechat\lib;
 
 /**
  * PKCS7Encoder class

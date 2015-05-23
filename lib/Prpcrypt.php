@@ -1,4 +1,6 @@
 <?php
+namespace lubaogui\wechat\lib;
+
 /**
  * Prpcrypt class
  *
